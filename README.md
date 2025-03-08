@@ -1,1 +1,2 @@
-# Vision-Clean-Image-De-smoking-Object-Detection
+# Vision:Clean-Image-De-smoking & Object-Detection
+Vision Clean is an advanced computer vision project designed to enhance visibility in images and videos affected by smoke or haze while accurately detecting objects. It leverages Fast Fourier Transform (FFT) for de-smoking and YOLOv8 for high-precision object detection. The system supports image, video, and live feed processing, making it ideal for applications in surveillance, disaster response, and autonomous navigation.
